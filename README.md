@@ -1,4 +1,7 @@
-### Hi there 👋
+### Estoy empezando este proyecto para crear una página web donde se integren sistemas de información geográfica con análisis estadístico (de dichos datos georreferenciados) a través del lenguaje de programación R  ...
+
+Y probablemente también haya contenido sobre bioinform
+
 
 <!--
 **juan-gl/juan-gl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
